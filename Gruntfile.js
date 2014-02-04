@@ -20,7 +20,7 @@ module.exports = function(grunt) {
     }
   });
 
-  // Load the plugin that provides the "uglify" task.
+  // Load the plugin that renders my templates
   grunt.loadNpmTasks('grunt-nunjucks-2-html');
 
   // Default task(s).
