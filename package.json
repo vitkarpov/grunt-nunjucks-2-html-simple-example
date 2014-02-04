@@ -1,0 +1,10 @@
+{
+  "name": "my-project-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt-cli": "latest",
+    "grunt": "~0.4.2",
+    "nunjucks": "~1.0.1",
+    "grunt-nunjucks-2-html": "~0.1.2"
+  }
+}
